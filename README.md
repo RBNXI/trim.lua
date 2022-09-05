@@ -1,3 +1,6 @@
+# FIXED INCORRECT KEYFRAME JUMPS IN SHORTCUT, SO THIS MAKES IT A LOT MORE EASIER TO GET A PRECISE SEEK FOR THE EXACT FRAME WHERE YOU WANT TO CUT.
+
+
 # ✂️ trim.lua
 > mpv script to create a "precise" clip of audio / video files without transcoding.
 
